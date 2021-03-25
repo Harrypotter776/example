@@ -8,10 +8,8 @@ function radioOnclick(self) {
     let startBuilding = document.getElementById("start-building")
 
     if (radioState == "marker") {
-        startBuilding.href = "pages/marker/index.html"
-    } else if (radioState == "location") {
-        startBuilding.href = "pages/location/index.html"
-    } else {
+        startBuilding.href = "https://raw.githack.com/Harrypotter776/example/main/pages/marker/index.html"
+     else {
         // Display error message
     }
 }
