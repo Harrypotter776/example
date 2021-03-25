@@ -14,7 +14,7 @@ class BackAnchor extends HTMLElement {
     connectedCallback() {
         this.classList.add('primary-button');
         this.classList.add('back-anchor');
-        this.shadowRoot.querySelector('.img-back').src = `${this.getAttribute('assetsUrl')}https://raw.githack.com/Harrypotter776/example/main/assets/icons/arrow-back.svg`;
+        this.shadowRoot.querySelector('.img-back').src = `${this.getAttribute('assetsUrl')}/https://raw.githack.com/Harrypotter776/example/main/assets/icons/arrow-back.svg`;
     }
 }
 
