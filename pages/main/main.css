@@ -87,7 +87,6 @@
 .radio-container:hover input ~ .checkmark {
   background: #ccc;
 }
-
 /* When the radio button is checked, add a black background */
 .radio-container input:checked ~ .checkmark {
   background: black;
