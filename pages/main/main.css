@@ -4,7 +4,7 @@
   flex-direction: column;
   width: 70vw;
   min-height: 100vh;
-   background-image: linear-gradient(blue, yellow);
+   background-image:url("https://raw.githack.com/Harrypotter776/example/main/assets/Images/4.2.png");
 }
 
 .content {
