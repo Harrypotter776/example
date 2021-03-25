@@ -4,7 +4,7 @@
   flex-direction: column;
   width: 70vw;
   min-height: 100vh;
-   background-image: linear-gradient(red, yellow);
+   background-image: linear-gradient(blue, yellow);
 }
 
 .content {
